@@ -128,6 +128,8 @@ This project utilizes a synthetic dataset containing 7,000 fictional GPU transac
     <li><b>BI Integration:</b> Formatted and exported a dedicated CSV structured for custom Tableau visualization (Dual-axis trends, Pareto analysis, and Scatter Matrices).</li>
 </ul>
 
+<img width="4736" height="1752" alt="__results___7_0" src="https://github.com/user-attachments/assets/02f69f26-02cf-4cbc-a8fe-4821acffb421" />
+
 <h2>Results</h2>
 <ul>
     <li><b>Model Accuracy:</b> The XGBoost Regressor achieved an <b>R² Score of 0.9981</b> with a Mean Absolute Error (MAE) of <b>$1,157.94</b> and a Root Mean Squared Error (RMSE) of <b>$3,909.13</b>.</li>
